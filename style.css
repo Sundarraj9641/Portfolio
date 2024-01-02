@@ -638,10 +638,10 @@ header.sticky{
     .hero{
         background-position: center;
         background-position-x: 37px;
-        background-position-y: 20px;
+        background-position-y: 2px;
     }
     .main-content{
-        margin-top: 450px;
+        margin-top: 470px;
     }
     .about{
         height: 914px;
