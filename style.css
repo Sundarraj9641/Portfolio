@@ -659,5 +659,20 @@ header.sticky{
     .about-text span{
         font-size: 30px;
     }
+    .layer h3{
+        font-size: 8px;
+    }
+    .layer li{
+        font-size: 6px;
+    }
+    .layer p{
+        font-size: 7px;
+    }
+    .center-text span{
+        font-size: 25px;
+    }
+    .contact-heading span{
+        font-size: 25px;
+    }
    
 }
